@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.basique.713
+Exec=/usr/bin/com.basique.713
+Name=Basique7.13
+Name[ru]=Basique7.13
+
+[X-Application]
+Permissions=Audio;Camera;Documents;Downloads;Internet;Location;MediaIndexing;Microphone;Music;NFC;Pictures;PublicDir;PushNotifications;RemovableMedia;ScreenCapture;Videos;WebView
+OrganizationName=com.basique
+ApplicationName=713
+
