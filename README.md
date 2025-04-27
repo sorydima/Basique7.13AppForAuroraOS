@@ -4,6 +4,10 @@
 
 # Basique7.13 App for AuroraOS ✨
 
+https://api.codemagic.io/apps/680e951ab592d76ddd9f209f/680e951ab592d76ddd9f209e/status_badge.svg
+
+[![Codemagic build status](https://api.codemagic.io/apps/680e951ab592d76ddd9f209f/680e951ab592d76ddd9f209e/status_badge.svg)](https://codemagic.io/app/680e951ab592d76ddd9f209f/680e951ab592d76ddd9f209e/latest_build)
+
 [![AuroraOS Compatible](https://img.shields.io/badge/AuroraOS-4.2+-blue.svg)](https://auroraos.ru)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-News-blue.svg)](https://t.me/basique713)
 <span style="display:block;text-align:center;margin:-10px 0 15px"> 
