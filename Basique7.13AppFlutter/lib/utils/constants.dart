@@ -9,21 +9,21 @@ const bool introScreenOnOff = true;
 const String firstIntroImage = "intro_1.png";
 const String firstIntroTitle = "Бренд Basique 7.13";
 const String firstIntroDescription =
-    "Бренд Basique 7.13, что в переводе с французского означает «базовый», «основной», оправдывает истоки своего названия, создавая дизайн, который можно описать как «новая простота». Basique 7.13 пропагандирует сдержанную, но отнюдь не скучную эстетику, присущую французской моде.";
+    "Бренд Basique 7.13, что в переводе с французского означает «базовый», «основной», оправдывает истоки своего названия.";
 
 // Second Page Introduction Screen
 
 const String secondIntroImage = "intro_2.png";
 const String secondIntroTitle = "Связь с Францией";
 const String secondIntroDescription =
-    "Связь с Францией не случайна: основательница марки Яна Ядгарова несколько лет прожила в Париже, где изучала fashion-маркетинг. Большим вдохновением для молодого дизайнера стала стажировка в Christian Dior и изучение творческих архивов создателя модного дома.";
+    "Связь с Францией не случайна: основательница марки Яна Ядгарова несколько лет прожила в Париже, где изучала fashion-маркетинг.";
 
 // Third Page Introduction Screen
 
 const String thirdIntroImage = "intro_3.png";
 const String thirdIntroTitle = "Сегодня";
 const String thirdIntroDescription =
-    "Сегодня Basique 7.13 выпускает несколько линеек: CLASSIC, RESORT и BASIC для женщин, которые предпочитают комфорт, универсальность и качество, ведь лучше пополнить гардероб одной вещью, но действительно достойной, чем купить несколько сомнительного происхождения.";
+    "Сегодня Basique 7.13 выпускает несколько линеек: CLASSIC, RESORT и BASIC для женщин, которые предпочитают комфорт, универсальность и качество.";
 
 // Appbar configuration
 
