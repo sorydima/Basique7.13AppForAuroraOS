@@ -1,5 +1,5 @@
 Name:       com.basique.app
-Summary:    Basique7.13
+Summary:    Basique713
 Version:    1.0.1
 Release:    11
 Group:      Qt/Qt
