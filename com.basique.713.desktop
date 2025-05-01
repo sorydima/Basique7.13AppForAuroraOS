@@ -3,11 +3,11 @@ Type=Application
 X-Nemo-Application-Type=silica-qt5
 Icon=com.basique.app
 Exec=/usr/bin/com.basique.app
-Name=Basique7.13
-Name[ru]=Basique7.13
+Name=Basique713
+Name[ru]=Basique713
 
 [X-Application]
 Permissions=Audio;Camera;Documents;Downloads;Internet;Location;MediaIndexing;Microphone;Music;NFC;Pictures;PublicDir;PushNotifications;RemovableMedia;ScreenCapture;Videos;WebView
 OrganizationName=com.basique
-ApplicationName=713
+ApplicationName=app
 
