@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=com.basique.713
-Exec=/usr/bin/com.basique.713
+Icon=com.basique.app
+Exec=/usr/bin/com.basique.app
 Name=Basique7.13
 Name[ru]=Basique7.13
 

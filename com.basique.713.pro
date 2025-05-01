@@ -1,4 +1,4 @@
-TARGET = com.basique.713
+TARGET = com.basique.app
 
 CONFIG += \
     c++17 \
@@ -19,9 +19,9 @@ SOURCES += \
     src/WebViewBrowser.cpp
 
 DISTFILES += \
-    rpm/com.basique.713.spec \
+    rpm/com.basique.app.spec \
     translations/*.ts \
-    com.basique.713.desktop \
+    com.basique.app.desktop \
     LICENSE.BSD-3-Clause.md \
     CODE_OF_CONDUCT.md \
     CONTRIBUTING.md \

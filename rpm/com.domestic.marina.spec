@@ -1,4 +1,4 @@
-Name:       com.basique.713
+Name:       com.basique.app
 Summary:    Basique7.13
 Version:    1.0.1
 Release:    11
