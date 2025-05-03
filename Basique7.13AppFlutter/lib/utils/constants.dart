@@ -96,14 +96,14 @@ const bool hideFooter = false;
 
 // Android keys
 
-const bool bannerAdIs = true;
+const bool bannerAdIs = false;
 String bannerAdId = "ca-app-pub-3940256099942544/6300978111";
 
-const bool interstialAdIs = true;
+const bool interstialAdIs = false;
 String interstialAdId = "ca-app-pub-3940256099942544/1033173712";
 int? maxInterstitialAdclick = 2;
 
-const bool rewardAdIs = true;
+const bool rewardAdIs = false;
 String rewardAdId = "ca-app-pub-3940256099942544/5224354917";
 int maxRewardAdclick = 2;
 
