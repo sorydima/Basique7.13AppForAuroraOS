@@ -8,7 +8,7 @@
 PRODUCT_NAME = Basique713
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.basique.app
+PRODUCT_BUNDLE_IDENTIFIER = com.basique.play
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = © 2025, BASIQUE 7.13 — бренд женской одежды. Использование материалов возможно только при письменном согласии и наличии обратной ссылки на сайт.
